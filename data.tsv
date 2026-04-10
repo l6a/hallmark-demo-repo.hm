@@ -1,1 +1,9 @@
-sha1
+sha1	release	source	year	doy	band	pipeline	step	type
+9eceaa05f7417e8d92009030d7602f0176d39e37	SR1	M87	2017	95	hi	hops	netcal	StokesI
+da8d1287ddee2ae46a3b0266b3dd11f151de8306	SR1	M87	2017	95	lo	hops	netcal	StokesI
+87d8be3e4574e556fb1a4741530c426e68b2fab5	SR1	M87	2017	96	hi	hops	netcal	StokesI
+9d9c95996033145afd1af5011f49c18c8e770259	SR1	M87	2017	96	lo	hops	netcal	StokesI
+5142cc7510a479607ee48886ba53658cda03b01d	SR1	M87	2017	100	hi	hops	netcal	StokesI
+c512014cb9ee3ef695507f383939d984756de8a3	SR1	M87	2017	100	lo	hops	netcal	StokesI
+534882f60ef6af9fc85961019dfccab8cd87774d	SR1	M87	2017	101	hi	hops	netcal	StokesI
+29ad5b8b3d08e79eff3ea7cbd18e5a31646b944e	SR1	M87	2017	101	lo	hops	netcal	StokesI
