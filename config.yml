@@ -1,5 +1,5 @@
 data:
-	- fmt: {release}_{source}_{year}_{doy:03d}_{band}_{pipeline}_{step}_{type}.uvfits
+  - fmt: '{release}_{source}_{year}_{doy:03d}_{band}_{pipeline}_{step}_{type}.uvfits'
 remote:
-	name: origin
-	url: https://data.cyverse.org/dav-anon/iplant/commons/cyverse_curated/EHTC_FirstM87Results_Apr2019/uvfits/
+  name: origin
+  url: https://data.cyverse.org/dav-anon/iplant/commons/cyverse_curated/EHTC_FirstM87Results_Apr2019/uvfits/
